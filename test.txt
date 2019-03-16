@@ -1,3 +1,10 @@
 Init
 
 aaa
+
+
+bbb
+
+我是510 传入的 reset --soft
+
+mixed reset

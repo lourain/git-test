@@ -11,4 +11,4 @@ mixed reset
 
 git sdfsdfsdf
 
-新功能1
+新功能2
